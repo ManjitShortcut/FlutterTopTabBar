@@ -1,4 +1,4 @@
-# tabbar
+# TopTabbar
 
 ## Getting Started
 DefaultTabController is the used to make top tabbar segement.
